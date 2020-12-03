@@ -131,3 +131,72 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:21:46.959
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PiQhSqDi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:21:46.968
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.PiQhSqDi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:21:46.977
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:21:46.989
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PiQhSqDi => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.098
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZzjFniaO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.108
+!MESSAGE subscribing to classpath changes: sts4.classpath.ZzjFniaO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.118
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.131
+!MESSAGE subsribers = [sts4.classpath.ZzjFniaO]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.145
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.154
+!MESSAGE project Client ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.162
+!MESSAGE Preparing classpath changed notification Client
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.172
+!MESSAGE project AutorizationServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.180
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.187
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.195
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.203
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZzjFniaO => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.210
+!MESSAGE executing callback sts4.classpath.ZzjFniaO Client false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.401
+!MESSAGE executing callback sts4.classpath.ZzjFniaO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.409
+!MESSAGE Preparing classpath changed notification AutorizationServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.417
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.433
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.445
+!MESSAGE executing callback sts4.classpath.ZzjFniaO AutorizationServer false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-03 12:22:37.645
+!MESSAGE executing callback sts4.classpath.ZzjFniaO SUCCESS [done]
